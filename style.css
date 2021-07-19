@@ -1,0 +1,91 @@
+.nav-link{
+    color: aliceblue !important;
+    font-size: 18px;
+    font-weight: bolder;
+   
+}
+h1{
+    font-size: 60px;
+    color: blueviolet;
+    font-family: poppins;
+}
+h2{
+    font-family: poppins;
+}
+h5{
+    font-size: 40px;
+    font-style: italic;
+    font-family: poppins;
+  
+}
+.btn{
+    padding: 10px 20px;
+    color: black;
+}
+.featured-banner{
+font-size: 40px;
+}
+
+.featured-title{
+    font-size: 20px;
+    color: gray;
+    font-family: poppins;
+}
+
+h4{
+    font-size: 20px;
+}
+.card{
+    box-shadow: 5px 5px 5px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+  
+}
+.black{
+    font-size: 50px;
+}
+.black-p{
+    font-size: 25px;
+    color: gray;
+}
+.fa-instagram{
+    font-size: 80px;
+    color: black;
+}
+.lusion-link{
+    color: black;
+    font-size: 25px;
+}
+.instagram{
+    background-color: gray;
+margin-left: 10%;
+margin-right: 10%;
+padding:50px;
+}
+.fa-envelope-square{
+    font-size: 100px;
+   margin-top: 30px;
+   margin-left: 25px;
+}
+.subscribe-p{
+    color: gray;
+}
+.fa-long-arrow-alt-right{
+    font-size: 40px;
+    color: cornflowerblue;
+   
+}
+input{
+    margin-left: 25px;
+}
+.last-part{
+    background-color: black;
+    color: cornsilk;
+    padding: 15px;
+    padding-top: 30px;
+}
+.last-part p{
+    font-weight: bolder;
+   
+}
